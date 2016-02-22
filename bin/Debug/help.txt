@@ -1,0 +1,9 @@
+  First, select a state from the drop down list. The default value is "All states". 
+
+  Using radiobutton select the subject you're interested: "Food", "Job", "Life" or "All topics".
+
+  In the field below there is a list of messages that you can scroll through using the scroller on the right side. Select any message by clicking on it. Below you will find the full text of the message and its properties, such as "Time of creation", "State", "Emotional coloring".
+
+  On the side of the map appears a marker that marks the location of the author of the selected message. You can change the size of the map using scrolling, as well as to choose different types of maps.
+
+  Right at the top you can select the type of chart and axis values. By clicking on the "Shows" a new window appears with constructing chart.

@@ -1,0 +1,31 @@
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\CourseWorkTweets.exe.config
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\CourseWorkTweets.exe
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\CourseWorkTweets.pdb
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.dll
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.xml
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.csprojResolveAssemblyReference.cache
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.Form1.resources
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.Properties.Resources.resources
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.csproj.GenerateResource.Cache
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.exe
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.pdb
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.1.7.0.0.Fakes.dll
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.1.7.0.0.Fakes.xml
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.Form2.resources
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\CourseWorkTweets.exe.config
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.exe
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.pdb
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\CourseWorkTweets.exe
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\CourseWorkTweets.pdb
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.1.7.0.0.Fakes.dll
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.xml
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.Core.1.7.0.0.Fakes.xml
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\bin\Debug\GMap.NET.WindowsForms.xml
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.csprojResolveAssemblyReference.cache
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.Form1.resources
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.Form2.resources
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.Properties.Resources.resources
+D:\DO\C#\Курсач\CourseWorkTweets\CourseWorkTweets\obj\Debug\CourseWorkTweets.csproj.GenerateResource.Cache
